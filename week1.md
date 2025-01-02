@@ -42,9 +42,4 @@ Practice: Created a MongoDB database for managing user data and posts.
 
 
 
-Day 7:
 
-Learning: Explored Mongoose to interact with MongoDB.
-
-
-Practice: Created a basic Mongoose model for users.
