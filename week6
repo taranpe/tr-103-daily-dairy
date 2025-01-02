@@ -1,0 +1,80 @@
+Week 6: UI/UX and Performance Improvements
+
+
+Day 36:
+
+Learning: Optimizing React components for performance.
+
+
+Practice: Implemented lazy loading and memoization for performance optimization.
+Day 37:
+
+Learning: Advanced frontend styling with Bootstrap.
+
+
+Practice: Styled the user dashboard, making it responsive and user-friendly with Bootstrap.
+
+
+Day 38:
+
+Learning: Error handling in APIs.
+
+
+Practice: Added error handling and validation for backend API routes.
+
+
+Day 39:
+
+Learning: Caching data to improve performance.
+
+
+Practice: Implemented data caching for frequently accessed data (e.g., user info, posts).
+
+
+Day 40:
+
+
+Learning: Working with React hooks and context for state management.
+
+
+Practice: Replaced class components with functional components using hooks and context for state management.
+
+
+Day 41:
+
+Learning: Building an admin panel.
+
+
+Practice: Created a simple admin panel with React, allowing the admin to manage users and posts.
+
+
+Day 42:
+
+Learning: Integrating frontend with MySQL API.
+
+
+Practice: Integrated MySQL-based APIs with React to display user and post data on the frontend.
+
+
+Day 43:
+
+Learning: Authentication middleware in Express.
+
+
+Practice: Created custom middleware to protect sensitive routes and ensure that the user is authorized.
+
+
+Day 44:
+
+Learning: Finalizing the authentication flow with JWT.
+
+
+Practice: Tested the full authentication flow, ensuring secure login, JWT token generation, and token validation.
+
+
+Day 45:
+
+Learning: Preparing for deployment.
+
+
+Practice: Finalized the project for deployment on Heroku and Netlify.
